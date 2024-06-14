@@ -16,3 +16,6 @@ https://github.com/kevindoni/cpuload-phpnuxbill/assets/22675011/a97f0b37-9819-4d
 
 
 
+## Special Thanks
+
+[@ibnux](https://t.me/ibnux)
